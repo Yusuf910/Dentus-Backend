@@ -1,0 +1,297 @@
+ID_pose,English Name,Type_of_tracking,Angle,symetric Y/N,Popularity,Category,File_Name
+1,Big Toe (right),HBR,profile,n,,Standing,big_toe_right_woman.png
+2,Big Toe (left),HBL,profile,n,,Standing,big_toe_left_woman.png
+3,Bird of Paradise (right),FB,profile,n,,Standing,bird_of_paradise_right_woman.png
+4,Bird of Paradise (left),FB,profile,n,,Standing,bird_of_paradise_left_woman.png
+5,Revolved Bird of Paradise (right),FB,profile,n,,Standing,revolved_bird_of_paradise_right_woman.png
+6,Revolved Bird of Paradise (left),FB,profile,n,,Standing,revolved_bird_of_paradise_left_woman.png
+7,Chair (right),HBR,profile,n,15,Standing,chair_right_woman.png
+8,Chair (left),HBL,profile,n,15,Standing,chair_left_woman.png
+9,Crescent Lunge (right),FB,profile,n,,Standing,crescent_lunge_right_woman.png
+10,Crescent Lunge (left),FB,profile,n,,Standing,crescent_lunge_left_woman.png
+11,Crescent Lunge on the Knee (right),FB,profile,n,,Standing,crescent_lunge_on_the_knee_right_woman.png
+12,Crescent Lunge on the Knee (left),FB,profile,n,,Standing,crescent_lunge_on_the_knee_left_woman.png
+13,Crescent Moon (right),HBR,profile,n,,Standing,crescent_moon_right_woman.png
+14,Crescent Moon (left),HBL,profile,n,,Standing,crescent_moon_left_woman.png
+15,Eagle (right),FB,profile,n,,Standing,eagle_right_woman.png
+16,Eagle (left),FB,profile,n,,Standing,eagle_left_woman.png
+17,Standing Firefly (right),HBR,profile,n,,Standing,standing_firefly_right_woman.png
+18,Standing Firefly (left),HBL,profile,n,,Standing,standing_firefly_left_woman.png
+19,Standing Foot Behind the Head (right),FB,profile,n,,Standing,standing_foot_behind_the_head_right_woman.png
+20,Standing Foot Behind the Head (left),FB,profile,n,,Standing,standing_foot_behind_the_head_left_woman.png
+21,Standing Foot to Head (right),FB,profile,n,,Standing,standing_foot_to_head_right_woman.png
+22,Standing Foot to Head (left),FB,profile,n,,Standing,standing_foot_to_head_left_woman.png
+23,Standing Foot Behind the Head Forward Bend (right),FB,profile,n,,Standing,standing_foot_behind_the_head_forward_bend_right_woman.png
+24,Standing Foot Behind the Head Forward Bend (left),FB,profile,n,,Standing,standing_foot_behind_the_head_forward_bend_left_woman.png
+25,Standing Forward Bend (right),HBR,profile,n,,Standing,standing_forward_bend_right_woman.png
+26,Standing Forward Bend (left),HBL,profile,n,,Standing,standing_forward_bend_left_woman.png
+27,Standing Half Bound Lotus Forward Bend (right),FB,profile,n,,Standing,standing_half_bound_lotus_forward_bend_right_woman.png
+28,Standing Half Bound Lotus Forward Bend (left),FB,profile,n,,Standing,standing_half_bound_lotus_forward_bend_left_woman.png
+29,Goddess,FB,face,y,,Standing,goddess_woman.png
+30,Gorilla (right),HBR,profile,n,,Standing,gorilla_right_woman.png
+31,Gorilla (left),HBL,profile,n,,Standing,gorilla_left_woman.png
+32,Half Moon (right),FB,profile,n,,Standing,half_moon_ardha_right_woman.png
+33,Half Moon (left),FB,profile,n,,Standing,half_moon_ardha_left_woman.png
+34,Revolved Half Moon (right),FB,profile,n,,Standing,revolved_half_moon_right_woman.png
+35,Revolved Half Moon (left),FB,profile,n,,Standing,revolved_half_moon_left_woman.png
+36,Extended Standing Hand to Big Toe (right),FB,face,n,,Standing,extended_standing_hand_to_big_toe_right_woman.png
+37,Extended Standing Hand to Big Toe (left),FB,face,n,,Standing,extended_standing_hand_to_big_toe_left_woman.png
+38,Revolved Standing Hand to Big Toe (right),FB,profile,n,,Standing,revolved_standing_hand_to_big_toe_right_woman.png
+39,Revolved Standing Hand to Big Toe (left),FB,profile,n,,Standing,revolved_standing_hand_to_big_toe_left_woman.png
+40,Standing Hand to Big Toe (right),FB,profile,n,,Standing,standing_hand_to_big_toe_right_woman.png
+41,Standing Hand to Big Toe (left),FB,profile,n,,Standing,standing_hand_to_big_toe_left_woman.png
+42,Mountain,FB,Face,y,9,Standing,mountain_woman.png
+43,Pyramid (right),FB,profile,n,,Standing,pyramid_right_woman.png
+44,Pyramid (left),FB,profile,n,,Standing,pyramid_left_woman.png
+45,Shiva Squat (right),FB,profile,n,,Standing,shiva_squat_right_woman.png
+46,Shiva Squat (left),FB,profile,n,,Standing,shiva_squat_left_woman.png
+47,Extended Side Angle (right),FB,profile,n,,Standing,extended_side_angle_right_woman.png
+48,Extended Side Angle (left),FB,profile,n,,Standing,extended_side_angle_left_woman.png
+49,Standing Splits (right),FB,profile,n,,Standing,standing_splits_right_woman.png
+50,Standing Splits (left),FB,profile,n,,Standing,standing_splits_left_woman.png
+51,Standing Bow (right),FB,profile,n,,Standing,standing_bow_right_woman.png
+52,Standing Bow (left),FB,profile,n,,Standing,standing_bow_left_woman.png
+53,Star,FB,Face,y,,Standing,star_woman.png
+54,Tree (right),FB,Face,n,7,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/treeyogapose.png
+55,Tree (left),FB,Face,n,7,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/treeyogapose.png
+56,Triangle (right),FB,Face,n,6,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/TrianglePose.png
+57,Triangle (left),FB,Face,n,6,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/TrianglePose.png
+58,Revolved Triangle (right),FB,Face,n,,Standing,revolved_triangle_right_woman.png
+59,Revolved Triangle (left),FB,Face,n,,Standing,revolved_triangle_left_woman.png
+60,Warrior I (right),FB,Profile,n,4,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/warrioriii.png
+61,Warrior I (left),FB,Profile,n,4,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/warrioriii.png
+62,Warrior II (right),FB,Profile,n,3,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/WarriorII.png
+63,Warrior II (left),FB,Profile,n,3,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/WarriorII.png
+64,Warrior III (right),FB,Profile,n,5,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/warrioriii.png
+65,Warrior III (left),FB,Profile,n,5,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/warrioriii.png
+66,Wide Legged Forward Bend I,FB,Face,y,,Standing,wide_legged_forward_bend_i_woman.png
+67,Wide Legged Forward Bend II,FB,Face,y,,Standing,wide_legged_forward_bend_ii_woman.png
+68,Wide Legged Forward Bend III,FB,Face,y,,Standing,wide_legged_forward_bend_iii_woman.png
+69,Wide Legged Forward Bend IV,FB,Face,y,,Standing,wide_legged_forward_bend_iv_woman.png
+70,Archer's (right),FB,Profile,n,,Seated,archers_right_woman.png
+71,Archer's (left),FB,Profile,n,,Seated,archers_left_woman.png
+72,Boat (right),HBR,profile,n,17,Seated,boat_right_woman.png
+73,Boat (left),HBL,profile,n,17,Seated,boat_left_woman.png
+74,Both Feet Behind the Head I (right),HBR,profile,n,,Seated,both_feet_behind_the_head_i_right_woman.png
+75,Both Feet Behind the Head I (left),HBL,profile,n,,Seated,both_feet_behind_the_head_i_left_woman.png
+76,Bound Angle,FB,Face,y,,Seated,bound_angle_woman.png
+77,Butterfly (right),HBR,profile,n,,Seated,butterfly_right_woman.png
+78,Butterfly (left),HBL,profile,n,,Seated,butterfly_left_woman.png
+79,Caterpillar (right),HBR,profile,n,,Seated,caterpillar_right_woman.png
+80,Caterpillar (left),HBL,profile,n,,Seated,caterpillar_left_woman.png
+81,Easy,FB,Face,y,,Seated,easy_woman.png
+82,Embryo in Womb,FB,Face,y,,Seated,embryo_in_womb_woman.png
+83,Fire Log,FB,Face,y,,Seated,fire_log_woman.png
+84,Foot Behind the Head I (right),FB,Face,n,,Seated,foot_behind_the_head_i_right_woman.png
+85,Foot Behind the Head I (left),FB,Face,n,,Seated,foot_behind_the_head_i_left_woman.png
+86,Seated Forward Bend I (right),HBR,profile,n,14,Seated,seated_forward_bend_i_right_woman.png
+87,Seated Forward Bend I (left),HBL,profile,n,14,Seated,seated_forward_bend_i_left_woman.png
+88,Seated Forward Bend II (right),HBR,profile,n,,Seated,seated_forward_bend_ii_right_woman.png
+89,Seated Forward Bend II (left),HBL,profile,n,,Seated,seated_forward_bend_ii_left_woman.png
+90,Seated Forward Bend III (right),HBR,profile,n,,Seated,seated_forward_bend_iii_right_woman.png
+91,Seated Forward Bend III (left),HBL,profile,n,,Seated,seated_forward_bend_iii_left_woman.png
+92,Seated Forward Bend IV (right),HBR,profile,n,,Seated,seated_forward_bend_iv_right_woman.png
+93,Seated Forward Bend IV (left),HBL,profile,n,,Seated,seated_forward_bend_iv_left_woman.png
+94,Seated Half Bound Lotus Forward Bend (right),FB,profile,n,,Seated,seated_half_bound_lotus_forward_bend_right_woman.png
+95,Seated Half Bound Lotus Forward Bend (left),FB,profile,n,,Seated,seated_half_bound_lotus_forward_bend_left_woman.png
+96,Seated Three Limbed Forward Bend (right),FB,profile,n,,Seated,seated_three_limbed_forward_bend_right_woman.png
+97,Seated Three Limbed Forward Bend (left),FB,profile,n,,Seated,seated_three_limbed_forward_bend_left_woman.png
+98,Garland,FB,Face,y,,Seated,garland_woman.png
+99,Seated Gate (right),FB,Face,n,,Seated,seated_gate_right_woman.png
+100,Seated Gate (left),FB,Face,n,,Seated,seated_gate_left_woman.png
+101,Revolved Seated Hand to Big (right),FB,Profile,n,,Seated,revolved_seated_hand_to_big_right_woman.png
+102,Revolved Seated Hand to Big (left),FB,Profile,n,,Seated,revolved_seated_hand_to_big_left_woman.png
+103,Head to Knee I (right),FB,Profile,n,,Seated,head_to_knee_i_right_woman.png
+104,Head to Knee I (left),FB,Profile,n,,Seated,head_to_knee_i_left_woman.png
+105,Hero (right),HBR,profile,n,,Seated,hero_right_woman.png
+106,Hero (left),HBL,profile,n,,Seated,hero_left_woman.png
+107,Heron (right),FB,Profile,n,,Seated,heron_right_woman.png
+108,Heron (left),FB,Profile,n,,Seated,heron_left_woman.png
+109,Lord of the Fishes (right),FB,Profile,n,,Seated,lord_of_the_fishes_right_woman.png
+110,Lord of the Fishes (left),FB,Profile,n,,Seated,lord_of_the_fishes_left_woman.png
+111,Lotus,FB,Face,y,,Seated,lotus_woman.png
+112,Noose (right),FB,Profile,n,,Seated,noose_right_woman.png
+113,Noose (left),FB,Profile,n,,Seated,noose_left_woman.png
+114,Half Pigeon (right),FB,Profile,n,,Seated,half_pigeon_right_woman.png
+115,Half Pigeon (left),FB,Profile,n,,Seated,half_pigeon_left_woman.png
+116,Rock the Baby (right),FB,Profile,n,,Seated,rock_the_baby_right_woman.png
+117,Rock the Baby (left),FB,Profile,n,,Seated,rock_the_baby_left_woman.png
+118,Sage Marichi's I (right),FB,Profile,n,,Seated,sage_marichis_i_right_woman.png
+119,Sage Marichi's I (left),FB,Profile,n,,Seated,sage_marichis_i_left_woman.png
+120,Sage Marichi's III (right),FB,Profile,n,,Seated,sage_marichis_iii_right_woman.png
+121,Sage Marichi's III (left),FB,Profile,n,,Seated,sage_marichis_iii_left_woman.png
+122,Side Lunge (right),FB,Face,n,,Seated,side_lunge_right_woman.png
+123,Side Lunge (left),FB,Face,n,,Seated,side_lunge_left_woman.png
+124,Front Splits (right),FB,Profile,n,,Seated,front_splits_right_woman.png
+125,Front Splits (left),FB,Profile,n,,Seated,front_splits_left_woman.png
+126,Wide Splits,FB,Face,y,,Seated,wide_splits_woman.png
+127,Staff (right),HBR,profile,n,,Seated,staff_right_woman.png
+128,Staff (left),HBL,profile,n,,Seated,staff_left_woman.png
+129,Thunderbolt (right),HBR,profile,n,,Seated,thunderbolt_right_woman.png
+130,Thunderbolt (left),HBL,profile,n,,Seated,thunderbolt_left_woman.png
+131,Banana (right),HBR,profile,n,,Supine,banana_right_woman.png
+132,Banana (left),HBL,profile,n,,Supine,banana_left_woman.png
+133,Bridge (right),HBR,profile,n,8,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/Bridgefromtheide.png
+134,Bridge (left),HBL,profile,n,8,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/Bridgefromtheide.png
+135,Corpse (right),HBR,profile,n,16,Supine,corpse_right_woman.png
+136,Corpse (left),HBL,profile,n,16,Supine,corpse_left_woman.png
+137,Fish (right),HBR,profile,n,,Supine,fish_right_woman.png
+138,Fish (left),HBL,profile,n,,Supine,fish_left_woman.png
+139,Supine Foot to Head (right),FB,profile,n,,Supine,supine_foot_to_head_right_woman.png
+140,Supine Foot to Head (left),FB,profile,n,,Supine,supine_foot_to_head_left_woman.png
+141,Supine Hand to Big Toe (right),HBR,profile,n,,Supine,supine_hand_to_big_toe_right_woman.png
+142,Supine Hand to Big Toe (left),HBL,profile,n,,Supine,supine_hand_to_big_toe_left_woman.png
+143,Happy Baby (right),HBR,profile,n,19,Supine,happy_baby_right_woman.png
+144,Happy Baby (left),HBL,profile,n,19,Supine,happy_baby_left_woman.png
+145,Sleeping Yogi (right),HBR,profile,n,,Supine,sleeping_yogi_right_woman.png
+146,Sleeping Yogi (left),HBL,profile,n,,Supine,sleeping_yogi_left_woman.png
+147,Supine Straddle (right),HBR,profile,n,,Supine,supine_straddle_right_woman.png
+148,Supine Straddle (left),HBL,profile,n,,Supine,supine_straddle_left_woman.png
+149,Waterfall (right),HBR,profile,n,,Supine,waterfall_right_woman.png
+150,Waterfall (left),HBL,profile,n,,Supine,waterfall_left_woman.png
+151,Wind Removing (right),HBR,profile,n,,Supine,wind_removing_right_woman.png
+152,Wind Removing (left),HBL,profile,n,,Supine,wind_removing_left_woman.png
+153,Bow (right),HBR,profile,n,,Prone,bow_right_woman.png
+154,Bow (left),HBL,profile,n,,Prone,bow_left_woman.png
+155,Half Bow (right),FB,profile,n,,Prone,half_bow_right_woman.png
+156,Half Bow (left),FB,profile,n,,Prone,half_bow_left_woman.png
+157,Child's (right),HBR,profile,n,2,Prone,childs_right_woman.png
+158,Child's (left),HBL,profile,n,2,Prone,childs_left_woman.png
+159,Cobra (right),HBR,profile,n,11,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cobra.png
+160,Cobra (left),HBL,profile,n,11,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cobra.png
+161,Reverse Corpse (right),HBR,profile,n,,Prone,reverse_corpse_right_woman.png
+162,Reverse Corpse (left),HBL,profile,n,,Prone,reverse_corpse_left_woman.png
+163,Extended Puppy (right),HBR,profile,n,,Prone,extended_puppy_right_woman.png
+164,Extended Puppy (left),HBL,profile,n,,Prone,extended_puppy_left_woman.png
+165,Frog (right),HBR,profile,n,,Prone,frog_right_woman.png
+166,Frog (left),HBL,profile,n,,Prone,frog_left_woman.png
+167,Locust I (right),HBR,profile,n,,Prone,locust_i_right_woman.png
+168,Locust I (left),HBL,profile,n,,Prone,locust_i_left_woman.png
+169,Locust II (right),HBR,profile,n,,Prone,locust_ii_right_woman.png
+170,Locust II (left),HBL,profile,n,,Prone,locust_ii_left_woman.png
+171,Locust III (right),HBR,profile,n,,Prone,locust_iii_right_woman.png
+172,Locust III (left),HBL,profile,n,,Prone,locust_iii_left_woman.png
+173,Sage Gheranda's (right),FB,profile,n,,Prone,sage_gherandas_right_woman.png
+174,Sage Gheranda's (left),FB,profile,n,,Prone,sage_gherandas_left_woman.png
+175,Snake (right),HBR,profile,n,,Prone,snake_right_woman.png
+176,Snake (left),HBL,profile,n,,Prone,snake_left_woman.png
+177,Sphinx (right),HBR,profile,n,,Prone,sphinx_right_woman.png
+178,Sphinx (left),HBL,profile,n,,Prone,sphinx_left_woman.png
+179,Tortoise (right),HBR,profile,n,,Prone,tortoise_right_woman.png
+180,Tortoise (left),HBL,profile,n,,Prone,tortoise_left_woman.png
+181,Box (right),HBR,profile,n,,Arm & Leg Support,box_right_woman.png
+182,Box (left),HBL,profile,n,,Arm & Leg Support,box_left_woman.png
+183,Camel (right),HBR,profile,n,18,Arm & Leg Support,camel_right_woman.png
+184,Camel (left),HBL,profile,n,18,Arm & Leg Support,camel_left_woman.png
+185,Cat (right),HBR,profile,n,12,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cat.png
+186,Cat (left),HBL,profile,n,12,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cat.png
+187,Cow (right),HBR,profile,n,13,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cow.png
+188,Cow (left),HBL,profile,n,13,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cow.png
+189,Dolphin (right),HBR,profile,n,,Arm & Leg Support,dolphin_right_woman.png
+190,Dolphin (left),HBL,profile,n,,Arm & Leg Support,dolphin_left_woman.png
+191,Downward-Facing Dog (right),HBR,profile,n,1,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/Downwardfacindog.png
+192,Downward-Facing Dog (left),HBL,profile,n,1,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/Downwardfacindog.png
+193,Eight Point (right),HBR,profile,n,,Arm & Leg Support,eight_point_right_woman.png
+194,Eight Point (left),HBL,profile,n,,Arm & Leg Support,eight_point_left_woman.png
+195,Humble Flamingo (right),FB,profile,n,,Arm & Leg Support,humble_flamingo_right_woman.png
+196,Humble Flamingo (left),FB,profile,n,,Arm & Leg Support,humble_flamingo_left_woman.png
+197,Gate (right),FB,Face,n,,Arm & Leg Support,gate_right_woman.png
+198,Gate (left),FB,Face,n,,Arm & Leg Support,gate_left_woman.png
+199,Horse (right),FB,profile,n,,Arm & Leg Support,horse_right_woman.png
+200,Horse (left),FB,profile,n,,Arm & Leg Support,horse_left_woman.png
+201,Lizard (right),FB,profile,n,,Arm & Leg Support,lizard_right_woman.png
+202,Lizard (left),FB,profile,n,,Arm & Leg Support,lizard_left_woman.png
+203,Lunge (right),FB,profile,n,,Arm & Leg Support,lunge_right_woman.png
+204,Lunge (left),FB,profile,n,,Arm & Leg Support,lunge_left_woman.png
+205,Crooked Monkey (right),FB,profile,n,,Arm & Leg Support,crooked_right_woman.png
+206,Crooked Monkey (left),FB,profile,n,,Arm & Leg Support,crooked_left_woman.png
+207,Pigeon (right),HBR,profile,n,20,Arm & Leg Support,pigeon_right_woman.png
+208,Pigeon (left),HBL,profile,n,20,Arm & Leg Support,pigeon_left_woman.png
+209,Plank (right),HBR,profile,n,10,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/plank.png
+210,Plank (left),HBL,profile,n,10,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/plank.png
+211,Upward Plank (right),HBR,profile,n,,Arm & Leg Support,upward_plank_right_woman.png
+212,Upward Plank (left),HBL,profile,n,,Arm & Leg Support,upward_plank_left_woman.png
+213,Low Push-up (right),HBR,profile,n,,Arm & Leg Support,low_push-up_right_woman.png
+214,Low Push-up (left),HBL,profile,n,,Arm & Leg Support,low_push-up_left_woman.png
+215,Rabbit (right),HBR,profile,n,,Arm & Leg Support,rabbit_right_woman.png
+216,Rabbit (left),HBL,profile,n,,Arm & Leg Support,rabbit_left_woman.png
+217,Sage Visvamitra's (right),FB,Face,n,,Arm & Leg Support,sage_visvamitras_right_woman.png
+218,Sage Visvamitra's (left),FB,Face,n,,Arm & Leg Support,sage_visvamitras_left_woman.png
+219,Side Plank (right),FB,Face,n,,Arm & Leg Support,side_plank_right_woman.png
+220,Side Plank (left),FB,Face,n,,Arm & Leg Support,side_plank_left_woman.png
+221,Inverted Staff (right),HBR,profile,n,,Arm & Leg Support,inverted_staff_right_woman.png
+222,Inverted Staff (left),HBL,profile,n,,Arm & Leg Support,inverted_staff_left_woman.png
+223,Little Thunderbolt (right),HBR,profile,n,,Arm & Leg Support,little_thunderbolt_right_woman.png
+224,Little Thunderbolt (left),HBL,profile,n,,Arm & Leg Support,little_thunderbolt_left_woman.png
+225,Tiger (right),FB,profile,n,,Arm & Leg Support,tiger_right_woman.png
+226,Tiger (left),FB,profile,n,,Arm & Leg Support,tiger_left_woman.png
+227,Upward-Facing Dog (right),HBR,profile,n,,Arm & Leg Support,upward-facing_dog_right_woman.png
+228,Upward-Facing Dog (left),HBL,profile,n,,Arm & Leg Support,upward-facing_dog_left_woman.png
+229,Wheel (right),HBR,profile,n,,Arm & Leg Support,wheel_right_woman.png
+230,Wheel (left),HBL,profile,n,,Arm & Leg Support,wheel_left_woman.png
+231,Wild Thing (right),FB,Face,n,,Arm & Leg Support,wild_thing_right_woman.png
+232,Wild Thing (left),FB,Face,n,,Arm & Leg Support,wild_thing_left_woman.png
+233,Both Feet Behind the Head II (right),HBR,profile,n,,Arm Balance & Inversion,both_feet_behind_the_head_ii_right_woman.png
+234,Both Feet Behind the Head II (left),HBL,profile,n,,Arm Balance & Inversion,both_feet_behind_the_head_ii_left_woman.png
+235,Chin Stand (right),HBR,profile,n,,Arm Balance & Inversion,chin_stand_right_woman.png
+236,Chin Stand (left),HBL,profile,n,,Arm Balance & Inversion,chin_stand_left_woman.png
+237,Crane (right),HBR,profile,n,,Arm Balance & Inversion,crane_right_woman.png
+238,Crane (left),HBL,profile,n,,Arm Balance & Inversion,crane_left_woman.png
+239,Crow (right),HBR,profile,n,,Arm Balance & Inversion,crow_right_woman.png
+240,Crow (left),HBL,profile,n,,Arm Balance & Inversion,crow_left_woman.png
+241,Deaf Man's (right),HBR,profile,n,,Arm Balance & Inversion,deaf_mans_right_woman.png
+242,Deaf Man's (left),HBL,profile,n,,Arm Balance & Inversion,deaf_mans_left_woman.png
+243,Eight Angle (right),HBR,profile,n,,Arm Balance & Inversion,eight_angle_right_woman.png
+244,Eight Angle (left),HBL,profile,n,,Arm Balance & Inversion,eight_angle_left_woman.png
+245,Elbow Balance (right),HBR,profile,n,,Arm Balance & Inversion,elbow_balance_right_woman.png
+246,Elbow Balance (left),HBL,profile,n,,Arm Balance & Inversion,elbow_balance_left_woman.png
+247,Elephant Trunk (right),FB,profile,n,,Arm Balance & Inversion,elephant_trunk_right_woman.png
+248,Elephant Trunk (left),FB,profile,n,,Arm Balance & Inversion,elephant_trunk_left_woman.png
+249,Embryo (right),HBR,profile,n,,Arm Balance & Inversion,embryo_right_woman.png
+250,Embryo (left),HBL,profile,n,,Arm Balance & Inversion,embryo_left_woman.png
+251,Firefly (right),HBR,profile,n,,Arm Balance & Inversion,firefly_right_woman.png
+252,Firefly (left),HBL,profile,n,,Arm Balance & Inversion,firefly_left_woman.png
+253,Floating Stick (right),HBR,profile,n,,Arm Balance & Inversion,floating_stick_right_woman.png
+254,Floating Stick (left),HBL,profile,n,,Arm Balance & Inversion,floating_stick_left_woman.png
+255,Flying Man (right),FB,profile,n,,Arm Balance & Inversion,flying_man_right_woman.png
+256,Flying Man (left),FB,profile,n,,Arm Balance & Inversion,flying_man_left_woman.png
+257,Revolved Flying Man (right),FB,profile,n,,Arm Balance & Inversion,revolved_flying_man_right_woman.png
+258,Revolved Flying Man (left),FB,profile,n,,Arm Balance & Inversion,revolved_flying_man_left_woman.png
+259,Forearm Balance (right),HBR,profile,n,,Arm Balance & Inversion,forearm_balance_right_woman.png
+260,Forearm Balance (left),HBL,profile,n,,Arm Balance & Inversion,forearm_balance_left_woman.png
+261,Grasshopper (right),FB,Face,n,,Arm Balance & Inversion,grasshopper_right_woman.png
+262,Grasshopper (left),FB,Face,n,,Arm Balance & Inversion,grasshopper_left_woman.png
+263,Handstand (right),HBR,profile,n,,Arm Balance & Inversion,handstand_right_woman.png
+264,Handstand (left),HBL,profile,n,,Arm Balance & Inversion,handstand_left_woman.png
+265,Supported Headstand (right),HBR,profile,n,,Arm Balance & Inversion,supported_headstand_right_woman.png
+266,Supported Headstand (left),HBL,profile,n,,Arm Balance & Inversion,supported_headstand_left_woman.png
+267,Tripod Headstand (right),HBR,profile,n,,Arm Balance & Inversion,tripod_headstand_right_woman.png
+268,Tripod Headstand (left),HBL,profile,n,,Arm Balance & Inversion,tripod_headstand_left_woman.png
+269,Himalayan Duck (right),HBR,profile,n,,Arm Balance & Inversion,himalayan_duck_right_woman.png
+270,Himalayan Duck (left),HBL,profile,n,,Arm Balance & Inversion,himalayan_duck_left_woman.png
+271,Flying (right),FB,profile,n,,Arm Balance & Inversion,flying_right_woman.png
+272,Flying (left),FB,profile,n,,Arm Balance & Inversion,flying_left_woman.png
+273,Moon Bird (right),HBR,profile,n,,Arm Balance & Inversion,moon_bird_right_woman.png
+274,Moon Bird (left),HBL,profile,n,,Arm Balance & Inversion,moon_bird_left_woman.png
+275,Peacock (right),HBR,profile,n,,Arm Balance & Inversion,peacock_right_woman.png
+276,Peacock (left),HBL,profile,n,,Arm Balance & Inversion,peacock_left_woman.png
+277,Pendant (right),HBR,profile,n,,Arm Balance & Inversion,pendant_right_woman.png
+278,Pendant (left),HBL,profile,n,,Arm Balance & Inversion,pendant_left_woman.png
+279,Flying Pigeon (right),HBR,profile,n,,Arm Balance & Inversion,flying_pigeon_right_woman.png
+280,Flying Pigeon (left),HBL,profile,n,,Arm Balance & Inversion,flying_pigeon_left_woman.png
+281,Plow (right),HBR,profile,n,,Arm Balance & Inversion,plow_right_woman.png
+282,Plow (left),HBL,profile,n,,Arm Balance & Inversion,plow_left_woman.png
+283,Rooster (right),HBR,profile,n,,Arm Balance & Inversion,rooster_right_woman.png
+284,Rooster (left),HBL,profile,n,,Arm Balance & Inversion,rooster_left_woman.png
+285,Scale (right),HBR,profile,n,,Arm Balance & Inversion,scale_right_woman.png
+286,Scale (left),HBL,profile,n,,Arm Balance & Inversion,scale_left_woman.png
+287,Scorpion (right),HBR,profile,n,,Arm Balance & Inversion,scorpion_right_woman.png
+288,Scorpion (left),HBL,profile,n,,Arm Balance & Inversion,scorpion_left_woman.png
+289,Shoulder Pressing (right),HBR,profile,n,,Arm Balance & Inversion,shoulder_pressing_right_woman.png
+290,Shoulder Pressing (left),HBL,profile,n,,Arm Balance & Inversion,shoulder_pressing_left_woman.png
+291,Shoulder Stand with Lotus Legs (right),HBR,profile,n,,Arm Balance & Inversion,shoulder_stand_with_lotus_legs_right_woman.png
+292,Shoulder Stand with Lotus Legs (left),HBL,profile,n,,Arm Balance & Inversion,shoulder_stand_with_lotus_legs_left_woman.png
+293,Supported Shoulder Stand (right),HBR,profile,n,,Arm Balance & Inversion,supported_shoulder_stand_right_woman.png
+294,Supported Shoulder Stand (left),HBL,profile,n,,Arm Balance & Inversion,supported_shoulder_stand_left_woman.png
+295,Supine Angle (right),HBR,profile,n,,Arm Balance & Inversion,supine_angle_right_woman.png
+296,Supine Angle (left),HBL,profile,n,,Arm Balance & Inversion,supine_angle_left_woman.png

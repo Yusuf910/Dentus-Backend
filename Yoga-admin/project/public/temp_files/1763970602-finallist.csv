@@ -1,0 +1,297 @@
+ID_pose,English Name,Type_of_tracking,Angle,symetric Y/N,Popularity,Category,File_Name
+1,Big Toe (right),HBR,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+2,Big Toe (left),HBL,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+3,Bird of Paradise (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+4,Bird of Paradise (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+5,Revolved Bird of Paradise (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+6,Revolved Bird of Paradise (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+7,Chair (right),HBR,profile,n,15,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+8,Chair (left),HBL,profile,n,15,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+9,Crescent Lunge (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+10,Crescent Lunge (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+11,Crescent Lunge on the Knee (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+12,Crescent Lunge on the Knee (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+13,Crescent Moon (right),HBR,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+14,Crescent Moon (left),HBL,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+15,Eagle (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+16,Eagle (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+17,Standing Firefly (right),HBR,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+18,Standing Firefly (left),HBL,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+19,Standing Foot Behind the Head (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+20,Standing Foot Behind the Head (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+21,Standing Foot to Head (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+22,Standing Foot to Head (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+23,Standing Foot Behind the Head Forward Bend (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+24,Standing Foot Behind the Head Forward Bend (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+25,Standing Forward Bend (right),HBR,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+26,Standing Forward Bend (left),HBL,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+27,Standing Half Bound Lotus Forward Bend (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+28,Standing Half Bound Lotus Forward Bend (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+29,Goddess,FB,face,y,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+30,Gorilla (right),HBR,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+31,Gorilla (left),HBL,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+32,Half Moon (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+33,Half Moon (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+34,Revolved Half Moon (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+35,Revolved Half Moon (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+36,Extended Standing Hand to Big Toe (right),FB,face,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+37,Extended Standing Hand to Big Toe (left),FB,face,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+38,Revolved Standing Hand to Big Toe (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+39,Revolved Standing Hand to Big Toe (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+40,Standing Hand to Big Toe (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+41,Standing Hand to Big Toe (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+42,Mountain,FB,Face,y,9,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+43,Pyramid (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+44,Pyramid (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+45,Shiva Squat (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+46,Shiva Squat (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+47,Extended Side Angle (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+48,Extended Side Angle (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+49,Standing Splits (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+50,Standing Splits (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+51,Standing Bow (right),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+52,Standing Bow (left),FB,profile,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+53,Star,FB,Face,y,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+54,Tree (right),FB,Face,n,7,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/treeyogapose.png
+55,Tree (left),FB,Face,n,7,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/treeyogapose.png
+56,Triangle (right),FB,Face,n,6,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/TrianglePose.png
+57,Triangle (left),FB,Face,n,6,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/TrianglePose.png
+58,Revolved Triangle (right),FB,Face,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+59,Revolved Triangle (left),FB,Face,n,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+60,Warrior I (right),FB,Profile,n,4,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/warrioriii.png
+61,Warrior I (left),FB,Profile,n,4,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/warrioriii.png
+62,Warrior II (right),FB,Profile,n,3,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/WarriorII.png
+63,Warrior II (left),FB,Profile,n,3,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/WarriorII.png
+64,Warrior III (right),FB,Profile,n,5,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/warrioriii.png
+65,Warrior III (left),FB,Profile,n,5,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/warrioriii.png
+66,Wide Legged Forward Bend I,FB,Face,y,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+67,Wide Legged Forward Bend II,FB,Face,y,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+68,Wide Legged Forward Bend III,FB,Face,y,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+69,Wide Legged Forward Bend IV,FB,Face,y,,Standing,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+70,Archer's (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+71,Archer's (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+72,Boat (right),HBR,profile,n,17,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+73,Boat (left),HBL,profile,n,17,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+74,Both Feet Behind the Head I (right),HBR,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+75,Both Feet Behind the Head I (left),HBL,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+76,Bound Angle,FB,Face,y,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+77,Butterfly (right),HBR,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+78,Butterfly (left),HBL,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+79,Caterpillar (right),HBR,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+80,Caterpillar (left),HBL,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+81,Easy,FB,Face,y,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+82,Embryo in Womb,FB,Face,y,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+83,Fire Log,FB,Face,y,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+84,Foot Behind the Head I (right),FB,Face,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+85,Foot Behind the Head I (left),FB,Face,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+86,Seated Forward Bend I (right),HBR,profile,n,14,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+87,Seated Forward Bend I (left),HBL,profile,n,14,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+88,Seated Forward Bend II (right),HBR,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+89,Seated Forward Bend II (left),HBL,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+90,Seated Forward Bend III (right),HBR,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+91,Seated Forward Bend III (left),HBL,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+92,Seated Forward Bend IV (right),HBR,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+93,Seated Forward Bend IV (left),HBL,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+94,Seated Half Bound Lotus Forward Bend (right),FB,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+95,Seated Half Bound Lotus Forward Bend (left),FB,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+96,Seated Three Limbed Forward Bend (right),FB,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+97,Seated Three Limbed Forward Bend (left),FB,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+98,Garland,FB,Face,y,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+99,Seated Gate (right),FB,Face,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+100,Seated Gate (left),FB,Face,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+101,Revolved Seated Hand to Big (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+102,Revolved Seated Hand to Big (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+103,Head to Knee I (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+104,Head to Knee I (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+105,Hero (right),HBR,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+106,Hero (left),HBL,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+107,Heron (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+108,Heron (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+109,Lord of the Fishes (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+110,Lord of the Fishes (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+111,Lotus,FB,Face,y,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+112,Noose (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+113,Noose (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+114,Half Pigeon (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+115,Half Pigeon (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+116,Rock the Baby (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+117,Rock the Baby (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+118,Sage Marichi's I (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+119,Sage Marichi's I (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+120,Sage Marichi's III (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+121,Sage Marichi's III (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+122,Side Lunge (right),FB,Face,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+123,Side Lunge (left),FB,Face,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+124,Front Splits (right),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+125,Front Splits (left),FB,Profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+126,Wide Splits,FB,Face,y,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+127,Staff (right),HBR,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+128,Staff (left),HBL,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+129,Thunderbolt (right),HBR,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+130,Thunderbolt (left),HBL,profile,n,,Seated,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+131,Banana (right),HBR,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+132,Banana (left),HBL,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+133,Bridge (right),HBR,profile,n,8,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/Bridgefromtheide.png
+134,Bridge (left),HBL,profile,n,8,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/Bridgefromtheide.png
+135,Corpse (right),HBR,profile,n,16,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+136,Corpse (left),HBL,profile,n,16,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+137,Fish (right),HBR,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+138,Fish (left),HBL,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+139,Supine Foot to Head (right),FB,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+140,Supine Foot to Head (left),FB,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+141,Supine Hand to Big Toe (right),HBR,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+142,Supine Hand to Big Toe (left),HBL,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+143,Happy Baby (right),HBR,profile,n,19,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+144,Happy Baby (left),HBL,profile,n,19,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+145,Sleeping Yogi (right),HBR,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+146,Sleeping Yogi (left),HBL,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+147,Supine Straddle (right),HBR,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+148,Supine Straddle (left),HBL,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+149,Waterfall (right),HBR,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+150,Waterfall (left),HBL,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+151,Wind Removing (right),HBR,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+152,Wind Removing (left),HBL,profile,n,,Supine,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+153,Bow (right),HBR,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+154,Bow (left),HBL,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+155,Half Bow (right),FB,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+156,Half Bow (left),FB,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+157,Child's (right),HBR,profile,n,2,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+158,Child's (left),HBL,profile,n,2,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+159,Cobra (right),HBR,profile,n,11,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cobra.png
+160,Cobra (left),HBL,profile,n,11,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cobra.png
+161,Reverse Corpse (right),HBR,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+162,Reverse Corpse (left),HBL,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+163,Extended Puppy (right),HBR,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+164,Extended Puppy (left),HBL,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+165,Frog (right),HBR,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+166,Frog (left),HBL,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+167,Locust I (right),HBR,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+168,Locust I (left),HBL,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+169,Locust II (right),HBR,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+170,Locust II (left),HBL,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+171,Locust III (right),HBR,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+172,Locust III (left),HBL,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+173,Sage Gheranda's (right),FB,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+174,Sage Gheranda's (left),FB,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+175,Snake (right),HBR,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+176,Snake (left),HBL,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+177,Sphinx (right),HBR,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+178,Sphinx (left),HBL,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+179,Tortoise (right),HBR,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+180,Tortoise (left),HBL,profile,n,,Prone,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+181,Box (right),HBR,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+182,Box (left),HBL,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+183,Camel (right),HBR,profile,n,18,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+184,Camel (left),HBL,profile,n,18,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+185,Cat (right),HBR,profile,n,12,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cat.png
+186,Cat (left),HBL,profile,n,12,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cat.png
+187,Cow (right),HBR,profile,n,13,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cow.png
+188,Cow (left),HBL,profile,n,13,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/cow.png
+189,Dolphin (right),HBR,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+190,Dolphin (left),HBL,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+191,Downward-Facing Dog (right),HBR,profile,n,1,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/Downwardfacindog.png
+192,Downward-Facing Dog (left),HBL,profile,n,1,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/Downwardfacindog.png
+193,Eight Point (right),HBR,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+194,Eight Point (left),HBL,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+195,Humble Flamingo (right),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+196,Humble Flamingo (left),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+197,Gate (right),FB,Face,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+198,Gate (left),FB,Face,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+199,Horse (right),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+200,Horse (left),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+201,Lizard (right),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+202,Lizard (left),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+203,Lunge (right),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+204,Lunge (left),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+205,Crooked Monkey (right),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+206,Crooked Monkey (left),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+207,Pigeon (right),HBR,profile,n,20,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+208,Pigeon (left),HBL,profile,n,20,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+209,Plank (right),HBR,profile,n,10,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/plank.png
+210,Plank (left),HBL,profile,n,10,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/plank.png
+211,Upward Plank (right),HBR,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+212,Upward Plank (left),HBL,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+213,Low Push-up (right),HBR,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+214,Low Push-up (left),HBL,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+215,Rabbit (right),HBR,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+216,Rabbit (left),HBL,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+217,Sage Visvamitra's (right),FB,Face,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+218,Sage Visvamitra's (left),FB,Face,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+219,Side Plank (right),FB,Face,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+220,Side Plank (left),FB,Face,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+221,Inverted Staff (right),HBR,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+222,Inverted Staff (left),HBL,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+223,Little Thunderbolt (right),HBR,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+224,Little Thunderbolt (left),HBL,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+225,Tiger (right),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+226,Tiger (left),FB,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+227,Upward-Facing Dog (right),HBR,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+228,Upward-Facing Dog (left),HBL,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+229,Wheel (right),HBR,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+230,Wheel (left),HBL,profile,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+231,Wild Thing (right),FB,Face,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+232,Wild Thing (left),FB,Face,n,,Arm & Leg Support,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+233,Both Feet Behind the Head II (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+234,Both Feet Behind the Head II (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+235,Chin Stand (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+236,Chin Stand (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+237,Crane (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+238,Crane (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+239,Crow (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+240,Crow (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+241,Deaf Man's (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+242,Deaf Man's (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+243,Eight Angle (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+244,Eight Angle (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+245,Elbow Balance (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+246,Elbow Balance (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+247,Elephant Trunk (right),FB,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+248,Elephant Trunk (left),FB,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+249,Embryo (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+250,Embryo (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+251,Firefly (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+252,Firefly (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+253,Floating Stick (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+254,Floating Stick (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+255,Flying Man (right),FB,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+256,Flying Man (left),FB,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+257,Revolved Flying Man (right),FB,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+258,Revolved Flying Man (left),FB,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+259,Forearm Balance (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+260,Forearm Balance (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+261,Grasshopper (right),FB,Face,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+262,Grasshopper (left),FB,Face,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+263,Handstand (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+264,Handstand (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+265,Supported Headstand (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+266,Supported Headstand (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+267,Tripod Headstand (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+268,Tripod Headstand (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+269,Himalayan Duck (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+270,Himalayan Duck (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+271,Flying (right),FB,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+272,Flying (left),FB,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+273,Moon Bird (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+274,Moon Bird (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+275,Peacock (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+276,Peacock (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+277,Pendant (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+278,Pendant (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+279,Flying Pigeon (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+280,Flying Pigeon (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+281,Plow (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+282,Plow (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+283,Rooster (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+284,Rooster (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+285,Scale (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+286,Scale (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+287,Scorpion (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+288,Scorpion (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+289,Shoulder Pressing (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+290,Shoulder Pressing (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+291,Shoulder Stand with Lotus Legs (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+292,Shoulder Stand with Lotus Legs (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+293,Supported Shoulder Stand (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+294,Supported Shoulder Stand (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+295,Supine Angle (right),HBR,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
+296,Supine Angle (left),HBL,profile,n,,Arm Balance & Inversion,http://13.201.150.234/yoga_admin/project/public/yoga/poses/default.png
