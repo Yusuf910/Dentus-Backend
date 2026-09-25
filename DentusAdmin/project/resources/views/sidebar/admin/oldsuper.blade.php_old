@@ -1,0 +1,538 @@
+<li>
+   <a href="javascript: void(0);" class="has-arrow
+   @if(Request::segment(2) === 'stafflist' || Request::segment(2) === 'admins')
+   {{ 'mm-active' }}
+   @elseif(Request::segment(2) === 'roles')
+   {{ 'mm-active' }}
+   @endif">
+   <i class="mdi mdi-view-dashboard"></i>
+   <span data-key="t-apps">Admin Management</span>
+   </a>
+   <ul class="sub-menu" aria-expanded="false">
+      <li  @if(Request::segment(2) === 'stafflist')
+            {{ 'mm-active' }}
+           @endif>
+         <a href="{{ route('admin.stafflist') }}">
+         <span data-key="t-calendar">Staff</span>
+         </a>
+      </li>
+      <li @if(Request::segment(2) === 'roles')
+            {{ 'mm-active' }}
+           @endif>
+         <a href="{{ route('admin.roles.index') }}">
+         <span data-key="t-calendar">Roles</span>
+         </a>
+      </li>
+      <!-- <li class="@if(Request::segment(2) === 'permissions')
+                  {{ 'active menu-open' }}
+                 @endif">
+         <a href="{{ route('admin.permissions.index') }}"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Permissions</a>
+      </li>  -->
+   </ul>
+</li>
+
+<li class="@if(Request::segment(3) === 'manage_user')
+    {{ 'active menu-open' }}
+    @endif">
+   <a href="{{ route('admin.master.manage_user') }}">
+   <i class="mdi mdi-account"></i>
+   <span data-key="t-horizontal">Manage User</span>
+   </a>
+</li>
+
+
+<li>
+   <a href="#" class="has-arrow"> <i class="mdi mdi-account-tie"></i> <span data-key="t-authentication">Astrologer Mgmt</span> </a>
+   <ul class="treeview-menu">
+      <li class="@if(Request::segment(3) === 'astrologer' || Request::segment(3) === 'create_applanguage' || Request::segment(3) === 'edit_applanguage' || Request::segment(3) === 'import_applanguage')
+      {{ 'mm-active' }}
+          @endif">
+           <a href="{{ route('admin.astrologer-manage.astrologer',1) }}">Verified Astrologer's</a>
+        </li>
+      <li>
+         <a href="{{ route('admin.astrologer-manage.astrologer',3) }}">Pending Astrologer's</a>
+      </li>
+      <li>
+         <a href="{{ route('admin.astrologer-manage.astrologer',0) }}">Inactive Astrologer's</a>
+      </li>
+
+      <li>
+         <a href="{{ route('admin.astrologer-manage.astrologer',4) }}">Ultra Premium Astrologer's</a>
+      </li>
+
+
+
+      <li>
+         <a href="{{ route('admin.astrologer-manage.index_incentive_astrologer') }}">Incentive</a>
+      </li>
+
+
+      <li>
+         <a href="{{ route('admin.astrologer-manage.astrologers-reviews') }}">Reviews Astrologer's</a>
+      </li>
+   </ul>
+</li>
+
+
+
+
+
+<li>
+   <a href="#" class="has-arrow"> <i class="mdi mdi-account-tie"></i> <span data-key="t-authentication">Media</span> </a>
+   <ul class="treeview-menu">
+      
+
+   <li class="@if(Request::segment(3) === 'masteruser' || Request::segment(3) === 'create_masteruser' || Request::segment(3) === 'edit_masteruser' || Request::segment(3) === 'import_masteruser')
+      {{ 'mm-active' }}
+      @endif">
+      <a href="{{ route('admin.master.masteruser') }}">
+      <span data-key="t-calendar">Testimonial User</span>
+      </a>
+      </li>
+
+
+      <li class="@if(Request::segment(3) === 'astrologertestimonial')
+      {{ 'mm-active' }}
+         @endif">
+         <a href="{{ route('admin.master.astrologertestimonial') }}">
+         <span data-key="t-calendar">Testimonial</span>
+         </a>
+      </li>
+
+      
+   </ul>
+</li>
+
+
+<li>
+   <a href="javascript: void(0);" class="has-arrow 
+   @if(Request::segment(2) === 'faq' || Request::segment(2) === 'admins')
+   {{ 'mm-active' }}
+   @endif">
+   <i class="mdi mdi-sitemap-outline"></i>
+   <span data-key="t-apps">Master</span>
+   </a>
+   <ul class="sub-menu" aria-expanded="false">
+      <li class="@if(Request::segment(3) === 'applanguage' || Request::segment(3) === 'create_applanguage' || Request::segment(3) === 'edit_applanguage' || Request::segment(3) === 'import_applanguage')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.applanguage') }}">
+         <span data-key="t-calendar">App Language</span>
+         </a>
+      </li>
+      <li class="@if(Request::segment(3) === 'mastertax' || Request::segment(3) === 'create_mastertax' || Request::segment(3) === 'edit_mastertax' || Request::segment(3) === 'import_mastertax')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.mastertax') }}">
+         <span data-key="t-calendar">Master tax</span>
+         </a>
+      </li>
+     
+      <li class="@if(Request::segment(3) === 'masterlanguage' || Request::segment(3) === 'create_masterlanguage' || Request::segment(3) === 'edit_masterlanguage' || Request::segment(3) === 'import_masterlanguage')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.masterlanguage') }}">
+         <span data-key="t-calendar">Master Language</span>
+         </a>
+      </li>
+      <li>
+         <a href="#">
+         <span data-key="t-calendar">Gifts</span>
+         </a>
+      </li>
+      <li class="@if(Request::segment(3) === 'area_of_expertise' || Request::segment(3) === 'create_area_of_expertise' || Request::segment(3) === 'edit_area_of_expertise' || Request::segment(3) === 'import_area_of_expertise')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.area_of_expertise') }}">
+         <span data-key="t-calendar">Areas of Expertise</span>
+         </a>
+      </li>
+
+      
+
+      <li class="@if(Request::segment(3) === 'astro_shop_categories' || Request::segment(3) === 'create_astro_shop_categories' || Request::segment(3) === 'edit_astro_shop_categories' || Request::segment(3) === 'import_astro_shop_categories')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.astro_shop_categories') }}">
+         <span data-key="t-calendar">Astro Shop Categories</span>
+         </a>
+      </li>
+
+
+
+      {{-- <li>
+         <a href="#">
+         <span data-key="t-calendar">Astrochart</span>
+         </a>
+      </li> --}}
+      {{-- <li>
+         <a href="#">
+         <span data-key="t-calendar">Astroshop Category</span>
+         </a>
+      </li> --}}
+      <li class="@if(Request::segment(3) === 'mantras' || Request::segment(3) === 'create_mantras' || Request::segment(3) === 'edit_mantras' || Request::segment(3) === 'import_mantras')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.mantras') }}">
+         <span data-key="t-calendar">Mantra</span>
+         </a>
+      </li>
+      <li class="@if(Request::segment(3) === 'threadcolor' || Request::segment(3) === 'create_threadcolor' || Request::segment(3) === 'edit_threadcolor' || Request::segment(3) === 'import_threadcolor')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.threadcolor') }}">
+         <span data-key="t-calendar">Thread Colour</span>
+         </a>
+      </li>
+      <li class="@if(Request::segment(3) === 'masterdonation' || Request::segment(3) === 'create_masterdonation' || Request::segment(3) === 'edit_masterdonation' || Request::segment(3) === 'import_masterdonation')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.masterdonation') }}">
+         <span data-key="t-calendar">Donation</span>
+         </a>
+      </li>
+
+
+      <li class="@if(Request::segment(3) === 'rudrakshi' || Request::segment(3) === 'create_rudrakshi' || Request::segment(3) === 'edit_rudrakshi' || Request::segment(3) === 'import_rudrakshi')
+      {{ 'mm-active' }}
+   @endif">
+<a href="{{ route('admin.master.rudrakshi') }}">
+<span data-key="t-calendar">Rudrakshi</span>
+</a>
+</li>
+
+
+
+<li class="@if(Request::segment(3) === 'precious_stone' || Request::segment(3) === 'create_precious_stone' || Request::segment(3) === 'edit_precious_stone' || Request::segment(3) === 'import_precious_stone')
+{{ 'mm-active' }}
+@endif">
+<a href="{{ route('admin.master.precious_stone') }}">
+<span data-key="t-calendar">Precious Stone</span>
+</a>
+</li>
+
+
+
+<li class="@if(Request::segment(3) === 'semi_precious_stone' || Request::segment(3) === 'create_semi_precious_stone' || Request::segment(3) === 'edit_semi_precious_stone' || Request::segment(3) === 'import_semi_precious_stone')
+{{ 'mm-active' }}
+@endif">
+<a href="{{ route('admin.master.semi_precious_stone') }}">
+<span data-key="t-calendar">Semi Precious Stone</span>
+</a>
+</li>
+
+
+
+
+
+      <li>
+         <a href="#">
+         <span data-key="t-calendar">Country Code</span>
+         </a>
+      </li>
+      <li class="@if(Request::segment(3) === 'faq' || Request::segment(3) === 'create_faq' || Request::segment(3) === 'edit_faq' || Request::segment(3) === 'import_faq')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.faq') }}">
+         <span data-key="t-calendar">FAQ's</span>
+         </a>
+      </li>
+
+
+   </ul>
+</li>
+
+<li class="treeview">
+   <a href="#" class="has-arrow"><i class="mdi mdi-account"></i><span data-key="t-authentication">Ask A Question</span></a>
+   <ul class="treeview-menu">
+<li class="@if(Request::segment(3) === 'askaquestionindex')
+    {{ 'active menu-open' }}
+    @endif">
+   <a href="{{ route('admin.master.askaquestionindex') }}">
+   {{-- <i class="mdi mdi-account"></i> --}}
+   <span data-key="t-horizontal">Ask A Question</span>
+   </a>
+</li>
+
+<li class="@if(Request::segment(3) === 'suggestion_categories')
+    {{ 'active menu-open' }}
+    @endif">
+   <a href="{{ route('admin.master.suggestion_categories') }}">
+   <span data-key="t-horizontal">Suggestion Categories</span>
+   </a>
+</li>
+
+<li class="@if(Request::segment(3) === 'suggestion_sub_categories')
+    {{ 'active menu-open' }}
+    @endif">
+   <a href="{{ route('admin.master.suggestion_sub_categories') }}">
+   <span data-key="t-horizontal">Suggestion Sub Categories</span>
+   </a>
+</li>
+
+<li class="@if(Request::segment(3) === 'suggestion_list')
+    {{ 'active menu-open' }}
+    @endif">
+   <a href="{{ route('admin.master.suggestion_list') }}">
+   <span data-key="t-horizontal">Suggestion list</span>
+   </a>
+</li>
+   </ul>
+</li>
+
+<li class="treeview">
+   <a href="#" class="has-arrow"><i class="mdi mdi-account"></i><span data-key="t-authentication">Astrologer Request</span></a>
+   <ul class="treeview-menu">
+<li class="@if(Request::segment(3) === 'astrologerpercentagerequest')
+    {{ 'active menu-open' }}
+    @endif">
+   <a href="{{ route('admin.master.astrologerpercentagerequest') }}">
+   {{-- <i class="mdi mdi-account"></i> --}}
+   <span data-key="t-horizontal">Astrologer Percentage</span>
+   </a>
+</li>
+
+<li>
+   <a href="{{ route('admin.master.index_astrologer_price') }}">
+   {{-- <i class="mdi mdi-cash-multiple"></i> --}}
+   <span data-key="t-horizontal">Astrologer Price</span>   
+   </a>
+</li>
+
+<li>
+   <a href="{{ route('admin.master.index_astrologer_leave_request') }}">
+   {{-- <i class="mdi mdi-nature-people"></i> --}}
+   <span data-key="t-horizontal">Astrologer Leave Request</span>   
+   </a>
+</li>
+</ul>
+</li>
+
+<li class="@if(Request::segment(3) === 'transactionhistory')
+      {{ 'active menu-open' }}
+     @endif">
+      <a href="{{ route('admin.order.transactionhistory') }}">
+      <i class="mdi mdi-order-bool-descending-variant"></i>
+   <span data-key="t-horizontal">Transaction History</span>
+      </a>
+      </li>
+
+      <li class="@if(Request::segment(3) === 'tickethistory')
+      {{ 'active menu-open' }}
+     @endif">
+      <a href="{{ route('admin.master.tickethistory') }}">
+      <i class="mdi mdi-order-bool-descending-variant"></i>
+      <span data-key="t-horizontal">Ticket History</span>
+      </a>
+      </li>
+
+
+<li class="treeview">
+   <a href="#" class="has-arrow"> <i class="mdi mdi-order-bool-descending-variant"></i><span data-key="t-authentication">Order Management</span></a>
+   <ul class="treeview-menu">
+      <li class="@if(Request::segment(3) === 'consultation' && Request::segment(4) === '1')
+                  {{ 'active menu-open' }}
+                 @endif">
+           <a href="{{ route('admin.order.consultation',1) }}">All Order's</a>
+      </li>
+      <li class="@if(Request::segment(3) === 'consultation' && Request::segment(4) === '5')
+                  {{ 'active menu-open' }}
+                 @endif">
+           <a href="{{ route('admin.order.consultation',5) }}">Ongoing</a>
+      </li>
+      <li class="@if(Request::segment(3) === 'consultation' && Request::segment(4) === '2')
+                  {{ 'active menu-open' }}
+                 @endif">
+           <a href="{{ route('admin.order.consultation',2) }}">Completed</a>
+      </li>
+      <li class="@if(Request::segment(3) === 'consultation' && Request::segment(4) === '4')
+                  {{ 'active menu-open' }}
+                 @endif">
+           <a href="{{ route('admin.order.consultation',4) }}">Cancel</a>
+      </li>
+      {{-- <li class="@if(Request::segment(3) === 'consultation' && Request::segment(4) === '4')
+                  {{ 'active menu-open' }}
+                 @endif">
+           <a href="{{ route('admin.order.consultation',4) }}">Scheduled Booking</a>
+      </li> --}}
+      {{-- <li class="@if(Request::segment(3) === 'consultation' && Request::segment(4) === '3')
+                  {{ 'active menu-open' }}
+                 @endif">
+           <a href="{{ route('admin.order.consultation',3) }}">Refund Request</a>
+      </li> --}}
+      {{-- <li class="@if(Request::segment(3) === 'callhistory')
+                  {{ 'active menu-open' }}
+                 @endif">
+           <a href="{{ route('admin.order.callhistory') }}">Call History</a>
+      </li>
+
+      <li class="@if(Request::segment(3) === 'export_data')
+            {{ 'active menu-open' }}
+         @endif">
+      <a href="{{ route('admin.order.export_data') }}">Earning All Astrolger</a>
+      </li> --}}
+
+
+      {{-- <li class="@if(Request::segment(3) === 'transactionhistory')
+      {{ 'active menu-open' }}
+     @endif">
+      <a href="{{ route('admin.order.transactionhistory') }}">Transaction History</a>
+      </li> --}}
+
+
+
+   </ul>
+</li>
+
+<li>
+   <a href="javascript: void(0);" class="has-arrow">
+   <i class="mdi mdi-calculator"></i>
+   <span data-key="t-apps">Plan Management</span>
+   </a>
+   <ul class="sub-menu" aria-expanded="false">
+      <li class="@if(Request::segment(3) === 'walletplan' || Request::segment(3) === 'create_walletplan' || Request::segment(3) === 'edit_walletplan' || Request::segment(3) === 'import_walletplan')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.walletplan') }}">
+         <span data-key="t-calendar">Wallet Recharge Plans</span>
+         </a>
+      </li>
+      <li class="@if(Request::segment(3) === 'coupans' || Request::segment(3) === 'create_coupans' || Request::segment(3) === 'edit_coupans' || Request::segment(3) === 'import_coupans')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.coupans') }}">
+         <span data-key="t-calendar">Coupon Management</span>
+         </a>
+      </li>
+
+      <li class="@if(Request::segment(3) === 'askaquestion')
+         {{ 'active menu-open' }}
+         @endif">
+         <a href="{{ route('admin.master.askaquestion') }}">
+         <span data-key="t-horizontal">Ask A Question plan</span>
+         </a>
+      </li>
+      
+   </ul>
+</li>
+
+
+
+<li class="@if(Request::segment(3) === 'index_product' || Request::segment(3) === 'create_shop_product' || Request::segment(3) === 'edit_shop_product' || Request::segment(3) === 'import_walletplan')
+                     {{ 'mm-active' }}
+                  @endif">
+   <a href="{{ route('admin.astro-product.index_product') }}">
+   <i class="mdi mdi-shopping"></i>
+   <span data-key="t-horizontal">Astroshop Product</span>
+   </a>
+</li>
+<!-- <li>
+   <a href="javascript: void(0);" class="has-arrow">
+   <i class="mdi mdi-image"></i>
+   <span data-key="t-apps">Banner</span>
+   </a>
+   <ul class="sub-menu" aria-expanded="false">
+      <li>
+         <a href="guruji-banner.html">
+         <span data-key="t-calendar">Guruji Banners</span>
+         </a>
+      </li>
+      <li>
+         <a href="offer-banner.html">
+         <span data-key="t-calendar">Offer Banneers</span>
+         </a>
+      </li>
+   </ul>
+</li> -->
+<li class="treeview
+   @if(Request::segment(2) === 'banner')
+   {{ 'active menu-open' }}
+   @endif">
+   <a href="#" class="has-arrow"><i class="mdi mdi-bell"></i> <span data-key="t-authentication">Banners</span> </a>
+   <ul class="treeview-menu">
+      <a href="{{ route('admin.master.banner') }}">  <i class="mdi mdi-inbox-full"></i> <span data-key="t-horizontal"> Banner</span> </a>
+      
+   </ul>
+</li>
+<li>
+   <a href="javascript: void(0);" class="has-arrow ">
+   <i class="mdi mdi-video"></i>
+   <span data-key="t-apps">Videos</span>
+   </a>
+   <ul class="sub-menu" aria-expanded="false">
+      <li class="@if(Request::segment(3) === 'astrovideos' || Request::segment(3) === 'create_astrovideos' || Request::segment(3) === 'edit_astrovideos' || Request::segment(3) === 'import_astrovideos')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.astrovideos') }}">
+         <span data-key="t-calendar">Astro Videos</span>
+         </a>
+      </li>
+      <li class="@if(Request::segment(3) === 'tutorialvideos' || Request::segment(3) === 'create_tutorialvideos' || Request::segment(3) === 'edit_tutorialvideos' || Request::segment(3) === 'import_tutorialvideos')
+                     {{ 'mm-active' }}
+                  @endif">
+         <a href="{{ route('admin.master.tutorialvideos') }}">
+         <span data-key="t-calendar">Tutorial Videos</span>
+         </a>
+      </li>
+   </ul>
+</li>
+<li class="@if(Request::segment(3) === 'astrovideos' || Request::segment(3) === 'create_astrovideos' || Request::segment(3) === 'edit_astrovideos' || Request::segment(3) === 'import_astrovideos')
+                     {{ 'mm-active' }}
+                  @endif">
+   <a href="{{ route('admin.master.blog') }}" >
+   <i class="mdi mdi-rss-box"></i>
+   <span data-key="t-horizontal">Blog</span>
+   </a>
+</li>
+<li class="treeview
+   @if(Request::segment(2) === 'Notification')
+   {{ 'active menu-open' }}
+   @endif">
+   <a href="#" class="has-arrow"><i class="mdi mdi-bell"></i> <span data-key="t-authentication">Send Notification</span> </a>
+   <ul class="treeview-menu">
+      <li class="@if(Request::segment(3) === 'send_notification_to_user')
+                  {{ 'active menu-open' }}@endif">
+            <a href="{{ route('admin.notification.send_notification_to_user') }}">User</a>
+      </li>
+      <li class="@if(Request::segment(3) === 'send_notification_to_astrologer')
+                  {{ 'active menu-open' }}@endif">
+            <a href="{{ route('admin.notification.send_notification_to_astrologer') }}">Astrologer</a>
+      </li>
+      <li class="@if(Request::segment(3) === 'send_notification_to_all')
+                  {{ 'active menu-open' }}@endif">
+            <a href="{{ route('admin.notification.send_notification_to_all') }}">All</a>
+      </li>
+      
+   </ul>
+</li>
+<li>
+   <a href="javascript: void(0);" class="has-arrow">
+   <i class="mdi mdi-cog"></i>
+   <span data-key="t-apps">Settings</span>
+   </a>
+   <ul class="sub-menu" aria-expanded="false">
+      <li class="@if(Request::segment(2) === 'settings')
+            {{ 'mm-active' }}
+           @endif">
+         <a href="{{ route('admin.settings.edit',1) }}">
+         <span data-key="t-calendar"> Settings</span>
+         </a>
+      </li>
+      <li class="@if(Request::segment(2) === 'settings2')
+            {{ 'mm-active' }}
+           @endif">
+         <a href="{{ route('admin.settings2',1) }}">
+         <span data-key="t-calendar">Content Settings</span>
+         </a>
+      </li>
+
+       <li class="@if(Request::segment(2) === 'settings4')
+            {{ 'mm-active' }}
+           @endif">
+         <a href="{{ route('admin.settings4',1) }}">
+         <span data-key="t-calendar">Call Config</span>
+         </a>
+      </li>
+      
+   </ul>
+</li>

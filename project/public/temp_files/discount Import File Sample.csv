@@ -1,0 +1,4 @@
+Name,Discount Type(flat/percent),Discount Value,"Discount (%)
+","Coupon Code *
+",Expiry Date *,Is Repeat Use*,Position,Status
+Coupan Test,flat,100,10 Percent,123ENG,2022-01-16,1,1,1

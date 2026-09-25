@@ -1,0 +1,24 @@
+@font-face {
+    font-family: AvenirLTStdMedium;
+    src: url(AvenirLTStd-Medium.otf);
+}
+
+body {
+    font-family: AvenirLTStdMedium !important;
+    font-size: 12px !important;
+    color: #494949;
+}
+
+p {
+    font-family: AvenirLTStdMedium !important;
+    font-size: 12px !important;
+    color: #494949;
+}
+
+strong {
+    font-family: AvenirLTStdMedium !important;
+    
+    font-size: 12px !important;
+    color: #494949;
+    font-weight: 400 !important;
+}

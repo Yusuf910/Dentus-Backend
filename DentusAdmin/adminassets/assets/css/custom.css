@@ -1,0 +1,177 @@
+.spec li {
+    list-style: none;
+    line-height: 2;
+}
+
+.table-formatting th {
+    word-break: break-all;
+    white-space: pre-wrap;
+
+}
+
+.spec i {
+    padding-right: 5px;
+}
+
+.spec {
+    padding-left: 1px;
+}
+
+.color-1 {
+    color: #F67F52;
+}
+
+.nav-tabs.nav-tabs-bottom>li>a.active {
+    font-weight: 500;
+}
+
+
+.experience-box .time-box {
+    color: #253659;
+    display: inline-block;
+    font-size: 13px;
+    border: 1px solid #253659;
+    text-transform: uppercase;
+    border-radius: 4px;
+    padding: 6px 15px;
+    width: 140px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.btn.btn-secondary {
+    background: #00d3c7 !important;
+    border-color: #00d3c7;
+}
+
+.clinic .nav-tabs .nav-link.active {
+    color: #fff !important;
+    background-color: #0d3341 !important;
+    font-weight: 500;
+
+}
+
+
+.clinic .nav-link {
+    color: #0d3341 !important;
+}
+
+
+/* ---------------------------------------------------------------- */
+/* Pricing                           
+/* ---------------------------------------------------------------- */
+
+/*
+.price-table {
+    border-radius: 12px;
+    text-align: center;
+    padding: 20px;
+    background: var(--White);
+    -webkit-transition: all 0.25s linear;
+    transition: all 0.25s linear;
+    -webkit-box-shadow: 0 10px 20px 0 rgba(61, 82, 96, 0.15);
+    box-shadow: 0 10px 20px 0 rgba(61, 82, 96, 0.15);
+}*/
+.price-table .price-text {
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+
+.price-table .price-text h2 {
+    font-size: 25px;
+}
+
+.price-list {
+    padding-left: 0px;
+}
+
+.price-table .price-icon {
+    display: inline-block;
+}
+
+.price-table .price-value {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.price-table .price-list li:first-child {
+    margin-top: 0;
+}
+
+.price-table .price-list li {
+    margin-top: 20px;
+    font-size: .9rem;
+    line-height: 0.9;
+    list-style-type: none;
+}
+
+.price-table .price-list li i {
+    color: #4CAF50;
+    padding-right: 10px;
+}
+
+.price-table .price-footer {
+    margin-top: 30px;
+}
+
+
+.price-table .price-footer .price-block-btn {
+    display: block;
+    border-radius: 50px;
+    color: #fff;
+}
+
+
+.price-table .price-value strong {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #050626;
+}
+
+
+.price-table .price-value span {
+    color: #797979;
+}
+
+/* ---------------------------------------------------------------- */
+/* Pricing                           
+/* ---------------------------------------------------------------- */
+
+ .image-container {
+      display: flex;
+      gap: 20px;
+    }
+
+    .image-option {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .image-option input {
+      display: none;
+    }
+
+    .image-option label img {
+      width: 100%;
+/*      height: 150px;*/
+      border-radius: 10px;
+      padding: 3px;
+      border: 3px solid transparent;
+      cursor: pointer;
+      transition: border 0.3s ease;
+    }
+
+    .image-option input:checked + label img {
+      border-color: #f67f52;
+    }
+
+    .image-option label {
+      margin-top: 10px;
+    }
+
+
+    .image-option span {
+      margin-top: 10px;
+      font-weight: 500;
+    }

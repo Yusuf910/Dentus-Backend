@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>search-normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search-normal" fill="#253659" fill-rule="nonzero">
+            <path d="M8.17508,15.6807 C12.3218,15.6807 15.6834,12.3191 15.6834,8.1724 C15.6834,4.02566 12.3218,0.66406 8.17508,0.66406 C4.02834,0.66406 0.66675,4.02566 0.66675,8.1724 C0.66675,12.3191 4.02834,15.6807 8.17508,15.6807 Z" id="Path" opacity="0.4"></path>
+            <path d="M17.325,14.7917 C17.05,14.2833 16.4666,14 15.6833,14 C15.0916,14 14.5833,14.2417 14.2833,14.6583 C13.9833,15.075 13.9166,15.6333 14.1,16.1917 C14.4583,17.275 15.0833,17.5167 15.425,17.5583 C15.475,17.5667 15.525,17.5667 15.5833,17.5667 C15.95,17.5667 16.5166,17.4083 17.0666,16.5833 C17.5083,15.9417 17.5916,15.3 17.325,14.7917 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

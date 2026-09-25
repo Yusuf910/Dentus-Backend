@@ -1,0 +1,8 @@
+Hi,<br><br>
+New Enquiry Receive Details given below:<br>
+Name : {{$data['a']->first_name}} {{$data['a']->last_name}},<br>
+Email : {{$data['a']->email}},<br>
+Mobile : {{$data['a']->mobile}},<br>
+Subject : {{$data['a']->subject}},<br>
+Message : <?=$data['a']->message?>,<br>
+Date : {{$data['a']->created_at}},<br>

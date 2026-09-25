@@ -1,0 +1,15 @@
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Laravel logs
+*.log
+storage/logs/*
+**/storage/logs/*
+**/storage/logs/*.log
+
+# macOS
+.DS_Store
+**/.DS_Store

@@ -1,0 +1,20 @@
+<?php
+
+namespace App\Models\UserModels;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class UserPremiumAddon extends Model
+{
+    use HasFactory;
+    protected $fillable = [
+        'user_id',
+        'subscription_id',
+        'premium_feature_id',
+        'payment_id',
+
+    ];
+
+    protected $guarded = [];
+}

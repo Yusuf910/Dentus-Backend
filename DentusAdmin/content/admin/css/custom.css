@@ -1,0 +1,29 @@
+.spec li {
+list-style: none;
+line-height: 2;
+}
+
+.spec i {
+padding-right: 5px;
+}
+.spec{padding-left: 1px;}
+
+.color-1{color: #F67F52;}
+
+.nav-tabs.nav-tabs-bottom > li > a.active{
+	font-weight: 500;
+}
+
+
+.experience-box .time-box {
+    color: #253659;
+    display: inline-block;
+    font-size: 13px;
+    border: 1px solid #253659;
+    text-transform: uppercase;
+    border-radius: 4px;
+    padding: 6px 15px;
+    width: 140px;
+    margin-top: 10px;
+    text-align: center;
+}

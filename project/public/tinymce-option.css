@@ -1,0 +1,30 @@
+/* @import url(AvenirLTStd-Medium.otf); */
+@font-face {
+    font-family: AvenirLTStdMedium;
+    src: url(AvenirLTStd-Medium.otf);
+}
+
+body {
+    font-family: AvenirLTStdMedium !important;
+    font-size: 12px !important;
+    color: #494949;
+}
+
+p,div {
+    font-family: AvenirLTStdMedium !important;
+    font-size: 12px !important;
+    color: #494949;
+    width: 100%;
+    line-height: 1;
+    margin-bottom: 0px;
+
+}
+
+strong {
+    font-family: AvenirLTStdMedium !important;
+    
+    font-size: 12px !important;
+    color: #494949;
+    font-weight: 400 !important;
+}
+

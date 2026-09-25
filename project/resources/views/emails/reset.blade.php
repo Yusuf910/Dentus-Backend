@@ -1,0 +1,217 @@
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#eff2f7" align="center" style="border-collapse:collapse">
+   <tbody>
+      <tr>
+         <td valign="top" align="center" height="30"></td>
+      </tr>
+      <tr>
+         <td valign="top" align="center" width="600">
+            <table border="0" align="center" cellpadding="0" cellspacing="0" style="max-width:600px;border-collapse:collapse;border:1px solid #f0f1f6">
+               <tbody>
+                  <tr>
+                     <td width="600" valign="top" bgcolor="#FFFFFF" align="center" style="max-width:600px">
+                        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+                           <tbody>
+                              <tr>
+                                 <td valign="top" align="center" bgcolor="#f7f8fa">
+                                    <table width="95%" align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top" height="18"></td>
+                                          </tr>
+                                          <tr>
+                                             <td valign="top">
+                                                <table width="105" align="left" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+                                                   <tbody>
+                                                      <tr>
+                                                         <td height="29"><a href="#" style="font-size:14px;text-align:left;color:#006ab9;text-decoration:none" target="_blank"> <img src="{{ asset('assets/images') }}/logo-light-text2.png" width="150" alt="" border="0" style="font-family:'Roboto',Arial;font-size:14px;text-align:left;color:#006ab9" class="CToWUd"></a> </td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td valign="top" height="15"></td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" align="center">
+                                    <table width="92%" border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+                                       <tbody>
+                                          <tr>
+                                             <td height="30"></td>
+                                          </tr>
+                                          <tr>
+                                             <td valign="top" align="left">
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+                                                   <tbody>
+                                                      <tr>
+                                                         <td align="left" style="font-family:'Roboto',Arial;text-align:left;font-size:14px;color:#666666;line-height:20px">
+                                                            Hello {{$data['name']}},
+                                                         </td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td height="20"></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td align="left" style="font-family:'Roboto',Arial;text-align:left;font-size:14px;color:#666666;line-height:20px">There was recently a request to change the password on your account. If you requested this password change, please click the link below to set a new password within 24 hours:</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td height="20"></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td align="center" style="background-color:#132074;font-family:'Roboto',Arial;font-size:16px;line-height:24px; font-weight:700;color:#ffffff;padding-top:10px; margin-left:10px; padding-bottom:10px">
+                                                            <a style="color:#ffffff;text-decoration:none" href="{{$data['url']}}">
+                                                            Click here to change your password
+                                                            </a>
+                                                         </td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td height="20"></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td align="left" style="font-family:'Roboto',Arial;text-align:left;font-size:14px;color:#666666;line-height:20px">If the button above isn’t working, paste the link below into your browser:</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td height="10"></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td align="left" style="font-family:'Roboto',Arial;text-align:left;font-size:14px;color:#666666;line-height:20px"><a href="https://Pegasus.app/privacy">https://Pegasus.app/privacy</a></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td height="20"></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td align="left" style="font-family:'Roboto',Arial;text-align:left;font-size:14px;color:#666666;line-height:20px">Regards<br>Pegasus Support Team</td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td height="20"></td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top" align="center">
+            <table style="width:100%;max-width:100%;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+               <tbody>
+                  <tr>
+                     <td align="center">
+                        <!--container-->
+                        <table class="row" style="width:600px;max-width:600px;" width="600" cellspacing="0" cellpadding="0" border="0" align="center">
+                           <tbody>
+                              <tr>
+                                 <td bgcolor="#050B19" align="center">
+                                    <!--wrapper-->
+                                    <table class="row" style="width:540px;max-width:540px;" width="540" cellspacing="0" cellpadding="0" border="0" align="center">
+                                       <tbody>
+                                          <tr>
+                                             <td class="container-padding" align="center">
+                                                <!-- content container -->
+                                                <table width="540" border="0" cellpadding="0" cellspacing="0" align="center" class="row" style="width:540px;max-width:540px;">
+                                                   <tbody>
+                                                      <tr>
+                                                         <td align="center">
+                                                            <!-- content -->    
+                                                            <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" style="width:100%; max-width:100%;">
+                                                               <tbody>
+                                                                  <tr>
+                                                                     <td height="40">&nbsp;</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td align="center" style="font-family:'Josefin Sans', Arial, Helvetica, sans-serif;font-size: 18px;color: #dadada;font-weight: 400;">Get in Touch</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td height="20">&nbsp;</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td>
+                                                                        <table cellspacing="0" cellpadding="0" border="0" align="center">
+                                                                           <tbody>
+                                                                              <tr>
+                                                                                 <td width="25">
+                                                                                    <a href="{{$data['generalsettings']->fb_link}}"><img width="25" style="display:block;width:100%;max-width:25px;" src="{{ asset('assets/emailtemplates') }}/fb.png">
+                                                                                    </a>
+                                                                                 </td>
+                                                                                 <td width="10">&nbsp;</td>
+                                                                                 <td width="25">
+                                                                                    <a href="{{$data['generalsettings']->twitter_link}}"><img width="25" style="display:block;width:100%;max-width:25px;" src="{{ asset('assets/emailtemplates') }}/tw.png">
+                                                                                    </a>
+                                                                                 </td>
+                                                                                 <td width="10">&nbsp;</td>
+                                                                                 <td width="25">
+                                                                                    <a href="{{$data['generalsettings']->linkedin_link}}"><img width="25" style="display:block;width:100%;max-width:25px;" src="{{ asset('assets/emailtemplates') }}/in.png"></a>
+                                                                                 </td>
+                                                                              </tr>
+                                                                           </tbody>
+                                                                        </table>
+                                                                     </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td height="20">&nbsp;</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td align="center" style="font-family:'Roboto', Arial, Helvetica, sans-serif;font-size: 13px;color: #dadada;line-height: 19px">
+                                                                        Kindly note that this is a system generated email. PLEASE DO NOT REPLY.<br> For any help assistance and support, you can email us on <a href="mailto:{{$data['generalsettings']->support_email}}" target="_blank" style="color: #dadada">{{$data['generalsettings']->support_email}}</a>
+                                                                     </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td align="center" style="font-family:'Roboto', Arial, Helvetica, sans-serif;font-size: 13px;color: #dadada;line-height: 19px">
+                                                                        Also write whatsapp number 9319391199
+                                                                     </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td>&nbsp;</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td align="center">
+                                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                                           <tbody>
+                                                                              <tr>
+                                                                                 <td align="center" style="font-family:'Roboto', Arial, Helvetica, sans-serif;font-size: 13px;color: #dadada;line-height: 20px;text-decoration: underline"><a href="https://Pegasus.app/privacy" target="_blank" style="color: #dadada">Terms of service</a></td>
+                                                                                 <td width="20" align="center" style="font-family:'Roboto', Arial, Helvetica, sans-serif;font-size: 13px;color: #dadada;line-height: 20px;">|</td>
+                                                                                 <td align="center" style="font-family:'Roboto', Arial, Helvetica, sans-serif;font-size: 13px;color: #dadada;line-height: 20px;text-decoration: underline"><a href="https://Pegasus.app/privacy" target="_blank" style="color: #dadada">Privacy Policy</a></td>
+                                                                              </tr>
+                                                                           </tbody>
+                                                                        </table>
+                                                                     </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td height="40">&nbsp;</td>
+                                                                  </tr>
+                                                               </tbody>
+                                                            </table>
+                                                         </td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
